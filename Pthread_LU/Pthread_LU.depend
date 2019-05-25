@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557638977 source:g:\parallelcomputingprojects\pthread_lu\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+	<algorithm>
+	<pthread.h>
+

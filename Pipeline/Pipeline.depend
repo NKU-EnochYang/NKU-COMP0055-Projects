@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553585292 source:g:\parallelcomputingprojects\pipeline\main.cpp
+	<iostream>
+	<windows.h>
+

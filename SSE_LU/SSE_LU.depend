@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555986437 source:g:\parallelcomputingprojects\sse_lu\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<pmmintrin.h>
+
